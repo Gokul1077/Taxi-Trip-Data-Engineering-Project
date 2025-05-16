@@ -7,7 +7,7 @@ Dataset Link: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 **Project Workspace:** 
 ![image](https://github.com/user-attachments/assets/57269328-fd80-4a18-a002-5a44268f262e)
 
-**Data factory:** (ETL Process)
+**Data factory section :** (ETL Pipelines)
 ![image](https://github.com/user-attachments/assets/4673bca4-7df1-4549-8302-96f99e9f907b)
 **Staging Data preparation:** 
 1.	“pl_stage_taxi_lookup_zone” pipeline contains a Copy activity: to get the data from Lakehouse (in csv) and load into warehouse (DB).
