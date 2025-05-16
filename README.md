@@ -1,6 +1,11 @@
 #  Microsoft Fabric data project using New York City taxi data.
 ![image](https://github.com/user-attachments/assets/e2db5557-70d5-4822-8986-880c2e1b7559)
 
+Pre-requisites ✅
+1. Microsoft Fabric environment,
+2. Basic SQL, and data warehousing knowledge
+
+
 **Source:**
 Dataset Link: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
